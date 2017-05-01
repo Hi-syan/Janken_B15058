@@ -20,6 +20,7 @@ class Board {
     fill(#000000);
     rect(0,225,450,75);
     fill(#FFFFFF);
+    textSize(45);
     textAlign(CENTER);
     text(result, 225, 260);
   }
